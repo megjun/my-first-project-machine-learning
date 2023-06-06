@@ -19,9 +19,10 @@ Until now, the strategy was to call as many people as possible, indiscriminately
 
 The goal of this project was to based on this information, help the marketing team by creating a model that selects the best candidates to be targeted by the campaign, in order to reduce costs. 
 
+
 ## Other projects
 
-In this repository I also added two more projects, `Python_first-project` and `Exploratory-Data-Analysis_first-project`, where I share a little more my skills as a data scientist. 
+In this repository I also added two more projects named - `Machine-Learning_group-project` and `Exploratory-Data-Analysis_first-project` - where I share a little more my skills as a data scientist, the project `Machine-Learning_group-project` was developed with two more collegues from my course. 
 
 
 ## Authors and acknowledgment
