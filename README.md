@@ -1,6 +1,6 @@
 # First project_Machine Learning
 
-## Name: Final Project - The Rumos Bank Marketing Campaign
+## Name: Final Project - The Awesome Bank Marketing Campaign
 
 ## Description
 
@@ -8,7 +8,7 @@ This project was my final project from my Post Graduate Degree in Data Science's
 
 This project is about the following busness problem (kaggle's challenge):
 
-After your success in the first project at The Rumos Bank, an even more exciting new project appears!
+After your success in the first project at The Awesome Bank, an even more exciting new project appears!
 
 The marketing team wants to launch a new campaign aimed at convincing customers to open term deposits.
 
