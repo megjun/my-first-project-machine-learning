@@ -23,6 +23,8 @@ The goal of this project was to based on this information, help the marketing te
 ## Other projects
 
 In this repository I also added two more projects named - `Machine-Learning_group-project` and `Exploratory-Data-Analysis_first-project` - where I share a little more my skills as a data scientist, the project `Machine-Learning_group-project` was developed with two more collegues from my course. 
+- `Machine-Learning_group-project` focused in feature engineering mostly, manipulating in json. 
+- `Exploratory-Data-Analysis_first-project` - focused mostly in data visualization and exploratory data analysis. 
 
 
 ## Authors and acknowledgment
