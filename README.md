@@ -4,7 +4,7 @@
 
 ## Description
 
-This project was my final project from my Post Graduate Degree in Data Science's Unit of Study Machine Learning Fundamentals. I got the grade of 19 in 20 in this project, finalizing also the Unit of Study Machine Learning Fundamentals with the final grade of 19 in 20. The project that I present here incorporates some improvings pointed by the Professor. 
+The project `FIRST PROJECT_MACHINE LEARNING_AWESOME BANK` was my final project from my Post Graduate Degree in Data Science's Unit of Study Machine Learning Fundamentals. I got the grade of 19 in 20 in this project, finalizing also the Unit of Study Machine Learning Fundamentals with the final grade of 19 in 20. The project that I present here incorporates some improvings pointed by the Professor. 
 
 This project is about the following busness problem (kaggle's challenge):
 
